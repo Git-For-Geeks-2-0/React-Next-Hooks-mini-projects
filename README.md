@@ -1,5 +1,3 @@
-# Javascript-mini-projects
-
 # Welcome to Git-For-Geeks 2.0!
 
 ![image](https://user-images.githubusercontent.com/113467810/273968163-e20c6aac-6dc1-4be8-9709-d805b14b750f.png)
