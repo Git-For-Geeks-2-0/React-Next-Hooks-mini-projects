@@ -6,8 +6,6 @@ Git-For-Geeks is an open-source contribution event conducted by the Geeks-for-Ge
 **Make some awesome projects, put them in your directory, and create a pull request.**
 
 #### You can take projects from these websites too. But the UI and other aspects should be made by yourself. Plagiarism of Code will be monitored. 
-[Frontend Mentor](https://www.frontendmentor.io/challenges)
-[Code Well](https://www.codewell.cc/challenges)
 
 If you are using the above project websites
 - Create an issue submitting the link of the challenge you are willing to work on
