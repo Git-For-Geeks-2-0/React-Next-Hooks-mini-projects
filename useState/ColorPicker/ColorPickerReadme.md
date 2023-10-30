@@ -1,5 +1,7 @@
 # Welcome to Git-For-Geeks!
 
+Checkout at: https://color-picker-theta-bay.vercel.app
+
 Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks Chapter of **Shri Ramdeobaba College of Engineering and Management, Nagpur**.
 
 **Make some awesome projects, put them in your directory and create a pull request.**
